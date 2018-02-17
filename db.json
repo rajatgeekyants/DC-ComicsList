@@ -1,0 +1,40 @@
+{
+  "suggestions": [
+    {
+      "name": "DC Universe - Rebirth",
+      "price": 2.99,
+      "main": "The Flash (Wally West)",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/366074/366074._SX1280_QL80_TTD_.jpg"
+    },
+    {
+      "name": "Doomed To Repeat It",
+      "price": 2.99,
+      "main": "The Flash (Barry Allen)",
+      "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/56/The_Flash_Rebirth_Vol_2_1.jpg/revision/latest?cb=20160610193517"
+    }
+  ],
+  "users": [
+    {
+      "id": "a342",
+      "name": "Rajat",
+      "gender": "m",
+      "comicsList": {
+        "items": [
+          {
+            "name": "DC Universe - Rebirth",
+            "price": 2.99,
+            "image": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/366074/366074._SX1280_QL80_TTD_.jpg",
+            "main": "The Flash (Wally West)"
+          },
+          {
+            "name": "Doomed To Repeat It",
+            "price": 2.99,
+            "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/56/The_Flash_Rebirth_Vol_2_1.jpg/revision/latest?cb=20160610193517",
+            "main": "The Flash (Barry Allen)"
+          }
+        ]
+      },
+      "recipient": null
+    }
+  ]
+}
